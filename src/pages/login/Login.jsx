@@ -1,5 +1,5 @@
 import React from "react"
-import image from "../../images/signin.svg"
+import image from "../../images/signIn.svg"
 
 function Login() {
   return (
